@@ -6,4 +6,4 @@ The project works on the technique of removing the foreground frame from the vid
 It may fail to give us an invisible cloak when we use a different color cloth rather than the one defined earlier in our code. Like, if we used the red color values in the code but we use green color cloth in the video footage, then it fails to give us an immerson of invisibility.
 # Deploying it on Flask
 To look how our project works when we use it on a web server, we deploy it on flask.
-We make a HTML file in which we create a web page and then link it with the flask.
+We make a HTML file in which we create a web page and then we link it with the flask.
